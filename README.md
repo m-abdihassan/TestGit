@@ -1,3 +1,3 @@
-#test Git
+#testGit
 
-tijaabo ku saabsan barashada git and github
+tijaabo ku saabsan barashada git iyo github
